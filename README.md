@@ -84,7 +84,8 @@ AIVO/
 Clone the repository
 
 ```bash
-git clone https://github.com/janardhan45-alla/AIVO.git
+git clone 
+https://github.com/chandrateja-spec/AVIO-AI-Powered-Emergency-First-Aid-Assistant.git
 ```
 
 Navigate to the project
@@ -131,7 +132,7 @@ This project was developed by:
 
 - **Vyshnav Janardhan**
 - **K. Chandra Teja**
-- **C. Hari Charan**
+- **Ch. Hari Charan**
 - **Geyana**
 - **Varsha**
 
